@@ -1,0 +1,1 @@
+python3 main.py configs/resa/resa50_culane.py --gpus 0
